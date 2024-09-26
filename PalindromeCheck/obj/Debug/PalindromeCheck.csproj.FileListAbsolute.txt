@@ -1,0 +1,7 @@
+C:\Users\Harshvardhan Gupta\source\repos\PalindromeCheck\bin\Debug\PalindromeCheck.exe.config
+C:\Users\Harshvardhan Gupta\source\repos\PalindromeCheck\bin\Debug\PalindromeCheck.exe
+C:\Users\Harshvardhan Gupta\source\repos\PalindromeCheck\bin\Debug\PalindromeCheck.pdb
+C:\Users\Harshvardhan Gupta\source\repos\PalindromeCheck\obj\Debug\PalindromeCheck.csproj.AssemblyReference.cache
+C:\Users\Harshvardhan Gupta\source\repos\PalindromeCheck\obj\Debug\PalindromeCheck.csproj.CoreCompileInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\PalindromeCheck\obj\Debug\PalindromeCheck.exe
+C:\Users\Harshvardhan Gupta\source\repos\PalindromeCheck\obj\Debug\PalindromeCheck.pdb
